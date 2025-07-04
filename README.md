@@ -1,1 +1,1 @@
-# data-science
+# AI - Data Science Projects
